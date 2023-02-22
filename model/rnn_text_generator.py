@@ -25,7 +25,7 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 # -----------------------------
 
 ### Aca se puede entregar otro texto
-doc = loadDocument('result_v6.txt')
+doc = loadDocument('result_v8.txt')
 doc = applyFilter(doc)
 
 
@@ -140,7 +140,7 @@ def on_epoch_end(epoch, logs):
 # Training the model
 # -----------------------------
 
-weights_path = 'weights_v6_20.hdf5'
+weights_path = 'weights_v8_20.hdf5'
 checkpointer = ModelCheckpoint(filepath=weights_path, verbose=1)
 generator_callback = LambdaCallback(on_epoch_end=on_epoch_end)
 

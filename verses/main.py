@@ -37,7 +37,7 @@ def main():
             os.system("mkdir " + src_dir_model)
 
             city = ""
-            infile = "00_output_v6_20_cleanyears"
+            infile = "00_output_v8_20_cleanyears"
             outfile = src_dir_model+"/"+infile+"_verses"
             build_verses_decasyllabes(infile, city, outfile)
 
@@ -68,7 +68,7 @@ def main():
         for city in os.listdir("verses_cities/"):
             if os.path.isdir("verses_cities/"+city):
                 try:
-                    infile = "00_output_v6_20_cleanyears"
+                    infile = "00_output_v8_20_cleanyears"
                     outfile = src_dir_cities+"/"+city+"/"+infile+"_verses"
                     build_verses_decasyllabes(infile, city, outfile)
 
@@ -77,8 +77,8 @@ def main():
                     # paste_ending
                     build_potencial_verses(infile, outfile)
 
-                except:
-                    print ("ERROR: Verses don't created to city: "+city+".")
+                except Exception as e:
+                    print ("ERROR: Verses don't created to city: "+city+". "+str(e))
 
             else:
                 print ("ERROR: No dictories found.")
@@ -86,3 +86,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

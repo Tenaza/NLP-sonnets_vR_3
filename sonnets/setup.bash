@@ -12,4 +12,3 @@ else
     echo -e "ERROR: $city_filename don't found.\n"
 fi
 
-

@@ -58,7 +58,7 @@ def filter_by_num_verses(dict_verses):
 
     filter_dict_verses = {}
     for syl in dict_verses:
-        if (len(dict_verses[syl]) > 3):
+        if (len(dict_verses[syl]) > 5):
             filter_dict_verses[syl] = dict_verses[syl]
 
     return filter_dict_verses
@@ -69,7 +69,7 @@ def to_json(name_datafile, name_datastructure):
 
     with open(name_datafile+".json", "w") as outfile:
         json.dump(name_datastructure, outfile)
-    
+
     return 0
 
 
@@ -96,10 +96,20 @@ def to_text(src_dir_cities, id_sonnet, city, sonnet):
     return 0
 
 
+def add_punctuation():
+    # 2 puntos
+    # 4 comas
+    # 2 espacios
+    punctuation=[".", ".", ",", ",", ",", ",","", ""]
+    sign = random.choice(punctuation)
+
+    return sign
+
+
 def create_sonnets(dict_verses, dict_verses_city, dict_verses_apoc, city, src_dir_cities):
 
-    n_sonnets=3
-    for id_sonnet in range(n_sonnets):
+    n_sonnets=50
+    for id_sonnet in range(1,(n_sonnets+1)):
 
 
         # Choose de final syllabe to build the sonnets
@@ -108,27 +118,27 @@ def create_sonnets(dict_verses, dict_verses_city, dict_verses_apoc, city, src_di
 
         final_syls_verse_B = random.choice(list(dict_verses.keys()))
 
-        hom_final_syls_apoc = homologous_final_syls(dict_verses, dict_verses_apoc)
-        final_syls_verse_C = random.choice(hom_final_syls_apoc)
+        final_syls_verse_C = random.choice(list(dict_verses.keys()))
 
-        final_syls_verse_D = random.choice(list(dict_verses.keys()))
+        hom_final_syls_apoc = homologous_final_syls(dict_verses, dict_verses_apoc)
+        final_syls_verse_D = random.choice(hom_final_syls_apoc)
 
         # Core sonnets built
-        # falta verificar que no se repitan los versos, si hay solo un verso se repite 3 veces
+        # falta verificar que no se repitan los versos
         verse_A_city = random.choices(list(dict_verses_city[final_syls_verse_A]), k=1)
         verses_A = random.choices(list(dict_verses[final_syls_verse_A]), k=3)
 
         verses_B = random.choices(list(dict_verses[final_syls_verse_B]), k=4)
 
-        verses_C = random.choices(list(dict_verses[final_syls_verse_C]), k=2)
-        verse_C_apoc = random.choices(list(dict_verses_apoc[final_syls_verse_C]), k=1)
+        verses_C = random.choices(list(dict_verses[final_syls_verse_C]), k=3)
 
-        verses_D = random.choices(list(dict_verses[final_syls_verse_D]), k=3)
+        verses_D = random.choices(list(dict_verses[final_syls_verse_D]), k=2)
+        verse_D_apoc = random.choices(list(dict_verses_apoc[final_syls_verse_D]), k=1)
 
-        sonnet = " "+verse_A_city[0]+"\n"+verses_B[0]+"\n"+verses_B[1]+"\n"+verses_A[0]+"\n\n"+verses_A[1]+"\n"+verses_B[2]+"\n"+verses_B[3]+"\n"+verses_A[2]+"\n\n"+verses_C[0]+"\n"+verses_D[0]+"\n"+verses_C[1]+"\n\n"+verses_D[1]+"\n "+verse_C_apoc[0]+"\n"+verses_D[2]+"\n"
+        sonnet = " "+verse_A_city[0]+str(add_punctuation())+"\n"+verses_B[0]+str(add_punctuation())+"\n"+verses_B[1]+str(add_punctuation())+"\n"+verses_A[0]+"."+"\n\n"+verses_A[1]+str(add_punctuation())+"\n"+verses_B[2]+str(add_punctuation())+"\n"+verses_B[3]+str(add_punctuation())+"\n"+verses_A[2]+"."+"\n\n"+verses_C[0]+str(add_punctuation())+"\n"+verses_D[0]+str(add_punctuation())+"\n"+verses_C[1]+"."+"\n\n"+verses_D[1]+str(add_punctuation())+"\n"+verses_C[2]+str(add_punctuation())+"\n "+verse_D_apoc[0]+"."+"\n"
 
-        print ("\n\nXXXXXXXXXXX["+city+"]XXXXXXXXXXXXXXXXX\n")
-        print (sonnet)
+        print ("\n\nXXXXXXXXXXX["+city+" "+str(id_sonnet)+"]XXXXXXXXXXXXXXXXX\n")
+        #print (sonnet)
 
         to_text(src_dir_cities, id_sonnet, city, sonnet)
         #counter_city = "2"
@@ -139,8 +149,6 @@ def create_sonnets(dict_verses, dict_verses_city, dict_verses_apoc, city, src_di
 
 
 def main():
-
-    #source_name = "02_terminaciones"
 
     filename_verses = "00_versos_predicted"
     filename_syls = "01_terminaciones_versos"
@@ -175,8 +183,8 @@ def main():
                 counter_syls_city = final_syls_counter(dict_verses_city)
 
                 create_sonnets(dict_verses, dict_verses_city, dict_verses_apoc, city, src_dir_cities)
-            except:
-                print ("ERROR: Sonnets don't created to city: "+city)
+            except Exception as e:
+                print ("ERROR: Sonnets don't created to city: "+city+". "+str(e))
 
         else:
             print ("ERROR: No dictories found.")
@@ -187,3 +195,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

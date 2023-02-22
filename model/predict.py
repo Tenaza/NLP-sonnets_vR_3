@@ -19,10 +19,10 @@ print('\n\n######################################################')
 print('###\t\t      load model       \t\t   ###')
 print('######################################################\n\n')
 
-model = load_model('weights_v6_20.hdf5')
+model = load_model('weights_v8_20.hdf5')
 
 #text_len = 475749
-text_len = 1057381
+text_len = 2047008
 #text_len = 7930
 
 ### n cantidad de caracteres por semilla
@@ -55,7 +55,7 @@ print('Text length: ', text_len)
 print('alphabet_size 1:', alphabet_size)
 
 ### Se carga el documento del modelo para la prediccion
-doc = loadDocument('result_v6.txt')
+doc = loadDocument('result_v8.txt')
 doc = applyFilter(doc)
 
 ### Objeto tokenizer, char_level=True indica que se hara la representación del
