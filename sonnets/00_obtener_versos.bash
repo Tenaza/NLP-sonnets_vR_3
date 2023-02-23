@@ -9,10 +9,11 @@ outfile="00_versos_predicted"
 awk 'BEGIN{FS=","}{print $2}' "${src_model}/${infile}.csv" > "${outfile}.csv"
 echo -e "\nVERSOS MODEL: Se ha crado el archivo ${outfile}.csv"
 
+
 # VERSES BY CITY
 rm -r "00_versos_by_city"
 mkdir "00_versos_by_city"
-city_filename="../cities/00_ciudades_unicas.tmp.csv"
+city_filename="../cities/00_ciudades_unicas.csv"
 
 if [[ -f "$city_filename" ]]; then
     while IFS= read -r city

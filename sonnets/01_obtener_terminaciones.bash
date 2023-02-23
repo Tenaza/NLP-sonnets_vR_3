@@ -16,7 +16,7 @@ rm ${infile}.tmp*.csv
 # TERMINACIONES CITY
 rm -r "01_terminaciones_by_city"
 mkdir "01_terminaciones_by_city"
-city_filename="../cities/00_ciudades_unicas.tmp.csv"
+city_filename="../cities/00_ciudades_unicas.csv"
 
 if [[ -f "$city_filename" ]]; then
     while IFS= read -r city

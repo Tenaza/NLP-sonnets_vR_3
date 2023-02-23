@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-city_filename="../cities/00_ciudades_unicas.tmp.csv"
+city_filename="../cities/00_ciudades_unicas.csv"
 
 if [[ -f "$city_filename" ]]; then
     while IFS= read -r city
