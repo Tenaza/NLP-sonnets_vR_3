@@ -1,0 +1,1024 @@
+
+
+######################################################
+###		    load libraries    		   ###
+######################################################
+
+
+
+
+######################################################
+###		      load model       		   ###
+######################################################
+
+
+
+
+######################################################
+###			Predict			   ###
+######################################################
+
+
+Text length:  247732
+alphabet_size 1: 45
+alphabet_size 2: 55
+ que te amor que de estar para es reciordo lo que 
+en la lazad de mí que a soy el mino no se dijo en 
+ lo que no se cuntarte de consiar en la loda y mi 
+os de esta de en la muda y asacado la que has de a
+on te de la misar en las que de una cama de la mej
+ en la muerda de ti me dicio para mi no hay a mi c
+ me tiento es en mi regueno el mis de mi hiciste e
+de pero mi tu de dicicio una pedro perde a lo hace
+ de estar en te compro que me quedo a des de ador 
+a en tan mistras de mando en ti mierdas si me cisa
+ que en el caso y de amor como en mí que ha entes 
+ de este en la mentida y amor acura que me hace a 
+ por con las cacisa en el amer y cienso a un cante
+ de a sin tientras deses la muerendo en el mientra
+an mientras della cancinar que no hay a mi socres 
+ tengo en el mispo que hay campa en la la de la me
+ solo como el entiendo en la tura de mi casa en el
+ si de tu casa con dar que na la no se alos con la
+ vivir a to fue no se viere no recer que no hay mi
+ cantesido de dentis de la casa di pado que te en 
+ habendo en mi mientr el amar como solo de gusta, 
+ de apoca de si no es somo aun basaba di toda me d
+ no es por de vueta en el campos de en del pensert
+ mi diste de el amor de insintres a la cara de si 
+ que este de ma con regonquida diminar son de la c
+ la muertas y se su canto por con ros que no se vi
+ndo en mi dive y amor tu que se vodia en el mispo 
+a una noce de la cama de la estende a ma arguda me
+ con el funar tu cuerme de te dise la vida de todo
+nes es en mi manar como mi estreción que es el que
+pera pensar san somoras que an la que hay una hica
+ivo y a sol de pien de esta en la que me dife que 
+ en mi que se estaba en la convando en la vida y s
+ que perden de par para de te dida si a mi nocho, 
+ por que te siguerte un tiesto y tar con ti me amo
+sos que es que me amor por no se de acura y ha la 
+no me derin con des para a en día peso de de mi tr
+cas en la vida de la mida con pan de cambio es que
+o soy el can con cara divir de lo que padre te de 
+es que es que se día y a te cuando de la muerte, d
+ cuando es a la bora de con mi nontenio soy del ca
+ion, y amor de cando en el terme ver diren de la d
+n la casa que un sigir que te deje mi sontigo sia 
+ de no cintar con es la menida la lor te que no es
+ en la gronena de para a tu mida y te habe por al 
+ mi noste en mu pierdo y anor es que se deces el t
+ la lue de la mentida a la calecha de mi perte de 
+ de se hay an mis cana mi vida y es mas de esa no 
+ a mi nada de ti me de la mentida solo mi muedo se
+ par en mi minste en la mengra de la luna de amor 
+egras de un cama para mi no me diste que nado y al
+ un paso en el silo que si espara con los medo a r
+ de con la luz de pada que so en mi solo e a lo qu
+ es que se que te diente la asidicia y se oro de p
+ que se tra en la mida de la pada y en el mentro d
+ me vienera y en la menado me guendo te contiendo 
+ de mi de canción mi exirta a la cimanto y amor so
+ mi para en la mane camo de mi dama en mi muerr si
+ que de era por un corez de tu contarte de la meri
+ cuando solo me dija de la muertí de la mida de la
+e de la borte de vienta si me diempo si es a mi se
+ dite el dejo que hay amor espar de cura de se tie
+ con un compre de lo que te encierdo un cantorio c
+ me dante solo la conter de la mara de ta tengo a 
+ mi sesa es de invirto de la mus a un tienco a su 
+ fiendo que se no me dijo y en la nochena como hay
+s la cona y un tuempo que se mi a mi abres en me h
+en es en si por con vienta cambienes en la que no 
+ os un piso en la dida de te amor que es pos en ca
+ de la casa de la mantas de la mena de te desiente
+de sel en tu foto de la mida de ti en el selió que
+ de mi hay dada de era perstes que se hasta si est
+na se es recormir yo se mi puedre que me hase el b
+que con en la mientra es lo que te inguenda en me 
+ de mi vante de la reor a mi cara de la mida que h
+ que me cuando en por camo un mientras yo se escar
+ ma vendo me pada me vida de aun en un cantiro de 
+a el mentrra pera te del me dido es que te es abre
+a una estarte en te paro en la mentira que de hace
+e que an un cancina con la hamar en mis por perde 
+ de te de mar si es de en te si me pare pa' si pac
+ que es tus paranto tiene en el cance de mi pertan
+ de par estes de el callar por mi noche yo en di m
+ un paco pero en disto se me que de amor yo no hay
+ me sar el cancion dor se te amor de me de como co
+a se un compre en la lantida el filor in cualla y 
+ con casa do dos se aqui a la midad de campión de 
+o de canco mi manza, me disto de te cambra con el 
+ con la funtar y amor si perde en me hace en me ac
+ en la estar de la dienciete tengo en la menar con
+me de la que me hace a tu casturo a mi vidad y tan
+ un bieo de la lodre, no ve aque te acuardo a si h
+ o de de cara en me sisto con la mara de la asuela
+ insuje de des de el la que en les dien y el que t
+ en mi mamor de cuentras de araba de es que soy se
+que es sal de rizo hacer un casa de in ptra de pis
+o para consegia y descuerdo con las busa de amor s
+ir por el compre es la sorrita serir qui me deste 
+ que de viliar a la midar de indito de mi misto el
+e en con se me dice que al anterta en mi sigura co
+ lo que se vientras de la que me ma hace a la dert
+n como a ti la cara te ondición de la cardido en e
+ con des de pada me dife en la merina hoy dua es a
+ que no solo que el si pen como es en tí como invi
+ van si la luna para muere para me quien de conció
+ si me de un casa en me de es de estar por ves de 
+ mi espara es mi infento y en la lama en todo me h
+es de espaba en la luera que no es diendo rentras 
+ vivir de esa consigo mu por en mi panda de por de
+a desme do es una nota con conar a ma camba de tu 
+ con como con el pon cuendo de la colaría la marde
+ con te de mi mino en la que te siguira ya por la 
+on es de un beto en la mana a te habe que este la 
+a me cantento se que en la cara en mi pano te adue
+igo con la tiernes me amor que esta contras con de
+on se si haces dije casa casa de te par en la muer
+ de tu miendo se la solima en tu piedo con el lod 
+ mi panar tu sera la coba y el carivo me dice por 
+o te cansa en paso se dien de la para es la vida q
+ ma en las casa por me diste es que es hara de la 
+ con par solo y de mi par si no hace de agiendo po
+ mas decado de la mida que se may de el amor de la
+compo tu vez de tu miemo que no quiere de midido d
+ mi mentarte aquita diel amor tu amor se compre de
+ destimo a en la vida de me puerta de mes, te gant
+ este este de un branto se esta diza para todo me 
+ que en mi ma de de espe ir con que en su yo que e
+una yo me sibe di mi manes yo me hache se dija y s
+en se me diño con lo que so ve este de surgo a van
+ me des de la lona para es mi noda de amor por en 
+ me de este me en en mi cantara de mi que me diste
+a en mi manto de la mejor te mi pana y con la cale
+ se la tiempo no es mi mundies se huma de invente 
+no hay de no se des mis peso de es la marma de sol
+a la piedo a cuerta sola es arego con des recerra,
+ de un dil de a te tiento en la mindar de ser mis 
+ es mi partina sin dista de en el esporo en me hac
+ tú conscura de para en en la con mi nache te espa
+ más que en la leciendo me diste de el acurria a l
+ aelo se estace es ol basa que no se compre de in 
+ de tu cara de la dicnca, y de has que pende solo 
+a can mas a nada la mándo es en mar sor es de acia
+un hay que de diente de la mustando es mi veda de 
+ te el chice como en mi mistor de la sueño y se ti
+ si el miento en tu como en tu cancendo por en el 
+ esa tu como de tad se con las sinte con la lubar 
+ ti me espara de la vida de la midida que se espar
+omos si me hibido mi aros en la vaz a ti perses qu
+a me segura en tan que hace de un parto a es mas d
+mi es mimore el paso que se hace a la tenta y en l
+ mi precento de amor con con harta de la lacia de 
+s mu into nadio se cancian si no hace a mi arinta 
+iono a lo que no se ganas con en la ventar para qu
+en deste de la chando en dijo y si poder su vido n
+ me de con ti que es que que se algante en el casa
+ a la dida con las noche de esta de como que hoy d
+ vor de lo que el diente te mas coma a mi mincito 
+n para mi cancer en el cara de la que de de a ti t
+ me siltido la desa que se conto per ya con cuapo 
+o en lo que es in en mi muedo me no se amor que se
+e de tu compre me de tras a como ya le que no hay 
+hamena de contras en el cantira y que y hoy min te
+n si me de en la solvida y en tan que pecha no se 
+ que tu viente sientre en la vida con tu confectad
+ solo en el saño de esa de destir a roba en el cal
+ no me amos con en candr de la dicente te amor no 
+un me de adura el sueña y de ciendo la gusta a la 
+ de tu contiempa, en la sinción de tedo tengo un c
+un no he de ta pera que no se de para mi para mien
+ tan somo soy dimen en la mancedo y en la estudia 
+ de de te el amor sientra como a mis auto en mi ma
+n la menderio a en la pura en el recuerdo para la 
+en de ti me diz de el somor en se pane a rivir en 
+ cancina de nada que ser que no solo me disto per 
+ solo se de aquí con de carlera de ti me dije por 
+ tono en el piede de tu pende de si fuedo en mi pr
+ que se aciendo sel tu corticia para el amor que e
+cen para que hace que en otra como con la folo y e
+ que es que hay andir un delo de amor de comanto d
+ los basando es ola casta a la molice, solo se que
+ a la contere que en mi solo en me ango para con l
+unada de esta contras en el pina de el despel de e
+ que peres de decer en la pesemo para cami a la di
+n de te en al cienta a a custado de esto con el me
+ por con las desa que hacer por la lanere can un m
+vive y al cuento te si extrenes es el diste como e
+ la pescando se te es de par de tu casa la la tan 
+ de estar podo a en mi hay de era de la desa mi mi
+en de esta no en la cale de tan des de que te este
+ per en la mantara es el dies con un solor de dist
+e a la mida a la mudra para es la canar que le que
+do se se tan a la lunas de cara en el de de intert
+ tu lecer que es que hay ha edo de la mintada en e
+no lo que tras que mo pada de dice la para de la s
+ te que hes de empuido que se enciento mi noda me 
+a te quiero se que es por en la de ada a el deceda
+ en el amor que en mis que no te que ni te amo a m
+ diente de mi vido se sol como por no es lo que co
+un lo que el proni como mi solo para esta azor de 
+ a la cuertad en ti me rice un siompa en par conti
+ por a mi pranes que no se de adol te dije en el c
+ solo quiero en la mida el mel de este cara y la s
+ de es la vida en mí de el somor en la pida de al 
+n mi que que presa la miempa de entrar en mi extra
+ asos que de compre en mi diste de tu contra de tu
+ por amo no pariendo es la que no se os el teso pa
+o por deste por la menar para cusca un patido de i
+ente por que se hace se poco que es tan de calla y
+a la mada y ano en de la concero es la vida de la 
+ la medieda y a no me de mes de amor un dacir con 
+e ti me con tan a tanto me quiere por aque ni es l
+ nada minira me vido a mi si mes de de tu que apas
+o la contrara de pora compare de la lacin de la qu
+ esta pistar a mi noca de la solidad me te ena man
+me individa es lo que se tango solo me diños de lo
+s a es un contido y a su pero que te sablen con di
+ no se con camina a la maleda de un bantario y en 
+e a la mestra de dis mi consira de me de von en la
+ mis peso para solo en las canción de esta estar q
+ta de en la rebianta si esperta le cacvo de esterm
+ a la sintida es basa me si por tan se con las amo
+ un coco en mi mi pade en el miso camo me dista la
+a un pocer de se te amo sueños no ve es que extrar
+e una mitir de en lo que se partas regreste en la 
+ en la vida de tu cama cieste en la dida te mu can
+os se esta bosa yo me diste y el amor que de cara 
+ amor de es me cantar de la conaria de emperman de
+ se que se hay amor de que no se hicir en la cara 
+ de mi atros que en tan te pana caria de en su con
+otra de la mada a la cuere a la sola de la llidad 
+ir en pasa el amor se te remo es el tarpesa sientr
+ mientras si es que te mi da se a ta algo la guer 
+ por que estada y a no asuna y en mi pistoria de l
+en destraco hay me des pero ni par el ciento que t
+ con en la cancion de solores de ti no me quiera s
+stuera un caba en el mido por di el tiempo de mi d
+ me dime de entre mi mido me dida con par cuendo e
+ve la mana si es que de una sontrados que te desí 
+ dire de la cona mi que hay yo para un contrada mi
+ que es de un medo que el tiempo en mi amor para q
+ que en contro se tengo que es me has camanue rase
+ hacer que en el pendido me dejo que es de asindo 
+ con pido me si me se en tadan para que no na es d
+ una adia de casa para si me de mutre en mí si es 
+ a la falla de la coma divir a te que de en la dej
+ que me hice para para estecias por solo de me mi 
+a con de si me diste de mi prese en la que me hace
+igo en mi mado de la melida di de te como con coro
+ lo que en el cara de aquí ya con indejar en ti me
+ para dilla en canción de acura de un cantarte si 
+ de soña a si como dien te que de amor que me dese
+ la mentren si es la para de la mentida el mue te 
+ mi padra de espara fue de mi cora con la cada de 
+iendo en destido me disme de me mi por en el canec
+ tan olva tisme en las canda de la mida de la gara
+en sueño mueda mi dese es la cuerdador a tu gara a
+e si en el ceno para lo que me a la sicirta como e
+no ven a la mijar para el alvo de redrer y pentido
+ es el amor sientres como no escobra este vivida d
+ que no este amor es que pendre es tan desar es ta
+ por es que no se es que ases se pada persina te c
+ en el decuro en el despaño y el que no soy en tu 
+s un carado en la misto se que no se histo jumpr s
+ de la mado en ma lada con en mestorio por na es d
+o de la fueda y en el viento y solo compañar que h
+ si para de lo que en la puedo cara a ma te dice b
+n de la que de friste te pasa en la cueles de veda
+as de te casto en la lacia que se muero de la laca
+ solo solo ton tu hara un arvene y el tran de la a
+ un peto en lo que se no pensar que es a solo y se
+ste en la se deda la los man por tu contare a tu h
+es en el escuerto y al que a ue huce de aquiler es
+ la moda y el futro de la casción y aso de de no h
+ me contendo es es se por an te omper en la mesa e
+na pa' me har con con como con tu cala de para bar
+cando me que en la te de la carado a una que de te
+ se yo no se cientras mi midar de pasia se te salv
+ yo para cansar se ver a mi maro de la dadar con l
+ en la cana y en la que no es que me anes de para 
+ las dimen con por tan como a mi que huelo el papo
+ que en la que de la vor que si es la vida de en c
+te en la conción de cuento el paño que te amor mi 
+e es a la conder que se hace dise con canar de est
+as sientras y en el dia la que me amor soy un band
+ por de de de el como de rine des de cango a mi pi
+ que se espare de como es mon mido no me te hace m
+ con la cher de el mientra que lo tener de sol har
+ dor en resis en mi compo con ti maner y de mada d
+ mi desamo de el miempo de la muera a la que de qu
+ canguna como como está si es la lueda de ti me di
+ en los pesa te guando un potor si no me dies y a 
+di por en la tenta a si me hara y el alvo a la lot
+se par en mi dirme con sa tu sol de diler que me s
+ los pendido con cuelia y me dando tu espaca de la
+s que ester soy es que na solo con esta en la mida
+ a mi prosar a las tear de este que me dija apenar
+con dos yo no hay man sientras yome sin hace en es
+ por tu fusta y se vida y en la cuerda que me dien
+ de la los ya no te que se dije de en el amor con 
+ con tan por con la milar en la tango a tu contra 
+ no hay para los desparia dol carma en ll vera par
+ de amor para en la cara de entra coma finta que e
+ en la mido y de amor no es la las de la canción y
+e en pada pueda y a mi muero me camido me haciendo
+ en mas prente en la para y es ll man a de de la d
+do de un pienco es mi dije que mi pasa lo que na e
+ es un pien por con la pano a que en la ano es mue
+an el como a la lante de encintras que es recerde 
+ de contro pera a mi mal mis de corta en la dida y
+enas de la desa la cosa de la la de mi meda y a de
+uendo que se tienes que se hace y me viene no es e
+ pensar de hare solo te en pano y es la vida la ve
+a de un tiempo no se ha en tu mida de como en disc
+a en lo que se dije de la solida de esta cantanco 
+ de aha es abradar en la mes de la casa pera de el
+ me des de en la vuena y la miedo de tus pendo de 
+ado y a todo en mi desturi de este dente a la cola
+ para la mida de aquí pero de por en la vortentivo
+en me vida es me hicien en el carmo a la sompre un
+ promes de es despierdo que nas me a mi despueda a
+os que el acerme de si me distre de pedo no te esp
+o se me se habendo es el caltino o esta cincisa y 
+ con incol que por al astar la muerte de en ti com
+ de el amor por dise me sinte en pistor con en cas
+a de amor de us buel a tan para en ti cantado con 
+en a esa con diste de la mila en tan sol de ti se 
+ que el mientras te señar de pedad de si cuento si
+ cren con casta que soy yo se lo vida por la viza 
+ que no conciento el esperta de ti pesa de la ingu
+a de mi terer tu huce de estar se en día tu mentid
+ su coma un disa en en cuino en mi mieta de mus de
+e a mi amor con cosar mis que la espara la muda de
+en por que con al cientra que me amor soy en el co
+ no es amor con tas a mi mas destu canse en las ab
+n de caria de consir si me midir en la para en la 
+empo soy de ti el primento yo que la nocha le es a
+ de como la tida de para el que en barta y amor qu
+na de mi no re vel de para me dien que me hay no m
+ la vinta a esta en la madida en tu framando en el
+a de tado y el tanto y a es muero el mal de un dal
+ pasa en la mantira en la pora de mi caleda en la 
+un de te acuardo me despel que no se camo a la sol
+ado y es ol tientos que el fanto a si me deste tad
+ bengan se hay de mi derir de dime en el miso si e
+nos en el derote que en mi amon de mientra la nadr
+ aundisar en mi parico de al carendo a si lo que p
+ que no si es de ti sabe a recura a la luz de non 
+ es mis que te amor en mi palita me des des de eso
+no el cosa en mi pana en la escanca cuando el solo
+o de vivir en el sirmido con tu cama en mi deja en
+ same se en el cancer besa como poda se amor en tu
+ros muere en mes que se mi de esta la la de cana e
+ como como la langa de despara es de ara cantar do
+los de si me da con tan de mi escoda en mi prosini
+ la cuela y en te camo te amor si ve de tu locas q
+ son de mis de nocia de ararte con la razón de est
+on me pada con tan a lo que no nue pasa es me dije
+una por de cuando en recontar y mi viero que no ha
+do soy var no si la cama de tar hay de en pasa con
+ amor que to papa de eso come ata como mi pontar s
+o que en ría perman a vida el par y es lo que reso
+ si te mista que mi cama y ser no iendidia por la 
+a si no se es par de lo que te cando que en in el 
+en la lada que basta a la sombre y me despara en l
+ al que en las de de en tu cara en en dicio en ral
+o en tan desper toda con tantoria de anos que con 
+ con la mana y mi no en mi mora de contras que si 
+o para la muedo ya es la casa de mi dija me que no
+ camo para de la espeda que amor si mi de amor la 
+ con para en ros por la para cama y me que no se e
+nos por cuerto de le hamena con en soba en me tiem
+ la fuese en la manta se tu encuel de te crande a 
+nte de el miso que no se da a su contiso es que en
+ histo te mi norra de tido en en mi pasa y te dien
+ salgo te amor es en tan con reside de un cala en 
+s y tu casa a sañara y al que de amor en el has me
+s si a ti al aur de conterma de el mido mi paner p
+ la mendida y que se mi vida a mi precendo ena mar
+ no es la vida de no me dive en la maner de la lor
+mi se contir el tigo de algos de el cara es haber 
+o que te en mi mujar de pel a en mas encienco y es
+ un sientro en el que en el cuenta de el del can c
+tu plas y pana me din se la buida perti con la lun
+ en ti me una buenciendo si no hay paso recura a l
+mas de esta esta de los de para dos desme de en el
+ en la mudida de solo un paso yo no se te en mas d
+ando de ester al tere como en mi solo de mi quedo 
+ come di es el tuda mi doca tungo con en mi hamar 
+e de amor si es que acrando si me de en la mistida
+ue a las que de cuando el miemo que es el tiento l
+ cara con ti me tento mi vida me canta de acura co
+ me dia por que se miedo de la mama con un dinma d
+a mor años de la mentor de la mida de camando con 
+na mare es mi calma a la las de vida en el la voda
+es de el cardido en el barta de la mida de atra no
+ue de tu cuelo de asur con nada en mi mido de nort
+ de la espuica, y me didi es desbarme a la mienda 
+s tu espera solo que esta los merdido y a la vida 
+ de ti te comos lo que mo se misha a mi mada mi es
+ como de amor si fue has diande a la lama de la mi
+lo es por mi dijo por te amor en mi misas de mi de
+na duela me dije de la que re por con cuenta me re
+ con en olvido me dica, te estado a me dirte de pu
+ar a mi sinta de mi panda la que te dice de mi vid
+ se mi aquel de la der de la larre de te par la ba
+as de la canca a de mi minia de tanto muerdo en la
+tu para en lo cuendo de abrazar de la boler que me
+se en la que no te viendo el piempo de la midida d
+des de aque hay a mi pana a la cara de que na la c
+ se de amor de ti me san de contres de mi hasta de
+n la loje de tu calez de para lo que un anto en ti
+o que es atra amor es que te repos de si por man n
+ con incenta con tan sientres tu que a me respendo
+ para de tu peso tiene para solo de von si es hay 
+inte tan te dije que astre a mi dalle en la miler 
+ me sor diere y a mi pada de mi hice en la meda de
+a mi amon tu casa de instira el muedo y se intulo 
+ el amor de sol de perma y se casta dimerte a ti m
+ para con cuente un paso por en mi dice y me dient
+na de mi val de man de por con intentar que no es 
+o de la luz y el cal de la venna en la vida ya se 
+cencones de tu haciendo es de cara en mi pasa y en
+e en la penación de castad es de par en ti la que 
+ me de mí y todo es de para de solota y para a la 
+ en mentar la contander en en la pantad de la mune
+ de con el por no es un potod con tu poreza y me a
+en de en dalente en al calez y en tan es el pico m
+ se que hay a la sueña que hace me vida se asor es
+ro de que te pros la mena con al cardad de tr me d
+n de de mi mi man cambia que se son un camo que en
+ pensar solo que se estedo de manor de la salga me
+con como orrerte de mi por que hace es resar en ta
+ es me de a lo que me sista en la cama en mi mida 
+s mi nol no recindo no ese se hices que no se sign
+ para la cala de esta contario por tu singida para
+ que hace se hizo y a la harla que hace un siempo 
+ro en la mieda y la dida desa que me pregues con i
+e en se me que no es es el pismo de la que hay es 
+ no se amor cuando me decerte y es que se contiso 
+ de la cada de tu aloce de me haciendo de cracente
+a se que se quiero pera en el sientras y a la cons
+ta por de el caluenta en me can besado un ballena 
+s a tu habia de mi fue de colventa de tu miro y el
+ mi manda se desamo que hay de la branda es la mue
+o era mi mida mes de mis desesor todo en ti pano y
+ el tien de te como en mi discendo de esta conos u
+ a rarina que te acon de la despritar que se paso 
+ que se dija y el denfito de man destodo tu cantar
+ las y se mi guando el amor que es el himpe de con
+ un des de el die en te hacer par una bula de ni e
+ con conterte con lo que se des mas siempre para d
+e un sía de te sorte de cares de la deja de para c
+o por me hacer si a recina que te aso y el milo y 
+ al pros sor par se como un intora de para de cora
+o me par era consiar y la casa en ti cango y esta 
+ mi tieros que no se reso mi piendo me duer que te
+ pera de cantor de dien de la que se te que es que
+o tron de mi fuida malenta solo a con la pora de l
+er en en su has de un pono yo me gija de la lajos 
+ hay de mi noche vivir para canser por en el canta
+cuando las deser como la mamor de cantara me si pe
+dumba de en la gande en la lagar descuerdo por un 
+ que no se en mar decente de la espata y me coma d
+a la destranes por no se me tiens a ti al mento y 
+ la cuella de currión de ora el me dife con las ca
+a el par con la tienco en tu canter en ai mido den
+no a ustida para desido es trazan de toros que por
+ por la caline a la esarte y a rasar con disme de 
+me de amor de veta te ingunto y ha el mido me te d
+que daces que en la que no hoy si no esta la lada 
+o no hay a la descuando el sinto hace no me do har
+ mi para por de vida en tu plesciando te que me vi
+ para la langa de la tende de el deso en la vida q
+e el que te amor que no me haciendo en la mintido 
+iende en la pasa de esta lo que no es mi sela de c
+con de si no es que no se que me nadie en la calla
+e en mi diente san como de tu que se hoy de constr
+ de no con camana en la casa en lo que diste de va
+o en mi micio por es cuerdo de la mida de tan cons
+la me que se viento de el campio y se dama con con
+a es que se sin des en el muner de la quiero es ci
+ de des en piso de mi denta la moledado el ampro t
+me con con tan se vida y asende la mana de la mund
+o que se luter de mi adrando me muda en la contara
+ ya me pareza de ti que te consenter que este con 
+ de mi pasa mi casa de mu cama de la confectar de 
+ todo que en la dida en tu cara de la destera de e
+ vendo y amor a mi miendo yo no se fiemo de mi que
+s me camo cance en el casa de en mi vida en mi dir
+ndo al cuelco con el mejor me deren de la descande
+ yo no es que no tengo en chego día te dempre el m
+ solo son descanto de la lamer de ti, no hay dien 
+no en mi fiento no ve se di de estarde un sirmo y 
+ol me dado a mi alvada de tu perdera como lo que n
+está de no hace en lo mentido ser sin destimo en e
+ es que esta lo que me nada que me un basa por que
+ cal en ti me dilen me que me harmen no es se des 
+es que te dire par anicas de mi pasa una sueño en 
+e es mi prosera con tan de inse ciente de la cona 
+o se mas el pano de mi nocha de la muerdo que no h
+e se de mi pasa dien que no se te de el difición d
+a me dise de este azon dise se espara este vienes 
+ ha amor en el ciento que me que no se escomor que
+o si es solo he habra no hay reso diel cenciendo y
+ que se diste la rica de mi discen de la boina de 
+e por en el pas de hay para que es que me hice ya 
+mí es el bierte de este el canción de no con el de
+ un milor con ros con las casado y de tien de en m
+ la espera de la mendida solo que el feco en la pa
+rio en mu pero se mi dol de el man el pana le van 
+n hay que es que se pren en el cuento te mi misado
+o que perda y solo me que perde vivir de la dende 
+ cumpio de algo de ha mertir pera en laca la mesas
+no yo la dienta y es la mesar de dejar a la dida p
+ me que te decir con ti perren si me sieno se tu g
+ con tu nolva se tu lava con al cuende de esta con
+sa es si como con la pueda a tu huce de mar con la
+de con tan con en rambre de la lado de la cuadra e
+ que en la que no se haciendo es de mi no este de 
+ con el des perder que me dive de si toda de ti co
+un me hace se mi despueres el bor por pero de lo p
+uo lo que nada mi solo he este la liza que na te q
+ para que hay amor de la mieda y te cante de mi ca
+ en mi fueres que el saluido me hicero de la mara 
+ que se conserte de en la vida y la solicia de de 
+ par en tanta me esta de la vida de mi deja caba d
+ de pertido me dera en mi padado de este a dista d
+ es más de la de tu para de mi de fue de irmer a q
+ si es que hace se mi que es es a no hay de descre
+amo que pod del ciento vieno ser que se amor a la 
+ a tu del como en mi amoje que an la llando en par
+e en el vientra pueda en la sernica la hizta tu lo
+ que no se sabe es en las camo de es mi pasar por 
+spuerda en sabio de la malera solo do el amor yo m
+ mi por tiene de un añor de lo des para al sueño e
+a perde que para mi vida se mida me dice con cuaza
+ y se de la que nu es que se mare no se esta cuend
+ en lo merdida el contendo casta se el amor se te 
+un como mi canado si la medida de esca mi mismo so
+es de mol con cardado a la dida y en mas a ti te l
+o que no este amar por tu falos de la dide de de t
+ende con el certo o en mis a en mi manendo de tu c
+rate en la luz de la colar que en pas en in tentad
+o en dis para mi de pirnte en te pepiento la denti
+ciendo es que par falicia mi me silvente si me de 
+un mestiendo se me dien de la mete de la cama de i
+ de su hoy de tan de el tengo se como que le daja 
+ue se amor ti solo se quedancos soro con casado en
+un sientras que se que se estas sueño a mi mira y 
+en dos de de achados de espuere cienos a si es car
+ por en pución de ta que te en sor que se esta sol
+ al basa de para que es es me dije en la mentarta 
+ me dia de consar que no se docin pa' al meda y es
+ sista a la mala de es mas ester como per con invi
+o de cosa mi mara y en man camanos y de amor ya pe
+no se ven de la estien una prina de la pasar de di
+s en me vida de anara de la se de des de en me hic
+a ninga hace a la que no se hace en mi por si te s
+ado de esta las que hoy de inceste en la vida de m
+ que de inserte de la la chea de es que para un el
+ de el metro con futor si esta sera vecer de en la
+ que no se hace en en mi mentra de el tiempo el am
+e parado te para mes pero en es al casa de a la me
+ tono pero en plabendo me dido y la mirmas que no 
+enque tu merir de se liga para se fue de esta a la
+ en se hiplo no soy dando es la loba de mal como m
+ que asía el cuerto y es anora en la barta de vint
+con la dester a la cala da el basa por la sonderte
+s la manar cienta de lo que se von puedes que en m
+r mi pasa de la no es que en curia de la luna en t
+te se es que hace tu que hay a la munida en la com
+en la cara es para me de gana con tregea en lo sol
+bas parte la casa desun alos de que me dije que es
+ me sol de desir con el amor es lo rise de estamo 
+ en el amor si a aquí en el meno yo no hay dijo qu
+ de para no va, de apuea ti perdan la loda y y en 
+ para a la cara de la lanto para luz no mi si cen 
+ basa de aquí de no te en busto de mi parte de qui
+ de de desme cuando y la que es la mana de mi mied
+me para lo que na a mi cona de en en por con conte
+es por en el centura y en si mida a mi pistos de l
+e a la mani y no se hicio es que tras que no es tu
+a vida mi poder que me dile por censir en la lunto
+ y mi espoció de en tan a la teda de su horemente 
+ su hal como si se vida, per na hucer de tu tuncio
+ no nungo a la mida que ne came que me no he se de
+ de mejar es la buella que en mas de haba en vivir
+ de de mi algante el delente de este amor y se bar
+a en el ciento y al ararte en la solida que te dil
+un dimo de un sopo te de amor que te vientra es el
+ que se tu no veda me de de ina mis que en mi paro
+e lo te escara me dadio de para en cuento por con 
+ la conareno a la dieda en el casto en el del en m
+ que se tigo me hay no es de ya me dice no te de u
+puerdo me vida con tan a la mentarda y merido en m
+ te me dueña de deste de de alos que te acuele a l
+ de invente en tu gandida mi vida tu casa si es qu
+ de tu solo camo a mi en mi despuere el par como m
+ de mor amor por es se de espera a que hace de tan
+ pera de podad, por con la misa de asondo es a del
+a de ale que no se deje en ma estara que el si mo 
+e a lo de nudio para en la pistades de mi manto a 
+a de mis pensar el amor al caricio para que hay pa
+ cuntar su val con dendido como que preme te mas d
+ de has a los cejas es tu caleso el para te su mid
+o en la conaren es de incidir de te rito no se amo
+ en mi solita de mi piesta la la da en de pata a l
+a como de te san lacienta en tus estera mi voda se
+de es la luz de la cala de me de mi miempo a la vi
+ que le que hay con entendo que te solvido y en la
+ la cara de corazón de la esta canda me siempo se 
+a me huera de mi diempo en ese solo a tu condido e
+n como sen deses de despara y a la munena mi digo 
+e a la pera de ententa me son ti miniro de la espu
+ como bos a en basa de amor hoy te amor fan al del
+en de la luna me ciento y que se te gando en el te
+el que yo se dada a la hicicida de tan del cancion
+a la minida a tu man sientras de pasar por la hici
+ el mertos en la mientra en el cantico no hoy de l
+ tu mierte a mi piedo de te se escuelo y de adra l
+o me que no es de de campo concuando y es a la men
+ de ti mi despiendo y a la cona la muerte de esa l
+ para mi pada me hace con denta te es la que no ha
+ de preche en la caela y con al caldar que me enam
+a la pasa de aurque soy de mi caludo a mi cama de 
+en de pienta de la mida y te amor de este me tu ha
+ en manto de al dirme y tu vieren de ti no me diat
+e tu gasas yo la tengo de esta con si como de dil 
+ en mis deste de el cara de esconta per para me de
+ se viendo se fui es tu lusto y me miera siendo pa
+ con es te de te hay que no es la amor hoy de con 
+ra de un siptio en tas pensar con in encontir y mi
+ un cabina y la meso me sires se ye me des de la c
+e per que se mijas que de mi nada en la quiza can 
+ es que te haces que de esta somo se con el amor q
+a besa la sabrita esta de dil a la nomer de la vod
+ con has al cara il calleza me como en lo que me t
+es que en me dide no se amor de un casa de no es d
+a que vanta ni me de amor el telo a te misido el p
+ que en un solo en la conace a coraria de un dieme
+para has de mi contecia par esta el caltó y en la 
+ de entra de es cuerdo en me sida o ma luna en mas
+ es que hay no me dijo de ador tan a la lajar y de
+ sientras que no a mis solo que es en peso el acer
+ huemo se hace de pana que en mis teso mis los tie
+ no te que le cama en el miente la mieda y tu eran
+ con de estriendo voy en en dí en mi escontarte a 
+ en raz de tu que no pande ha esta es que se por p
+ del tu ver pero con la para y lo pos como de dord
+para que na se la cara de har de esta es que par a
+ el vieto que en la meja en el tismpo de te me mis
+ame en la luz de la hora que no hace un día merida
+ no se mujar mas de a tu amor ne ser en mi vesta e
+s me dice si la mido se hay a la finta de de conte
+ me ciando en el distido en mi vida en la humera p
+el que en cara de en tu camando en tu cula de la m
+o no es para es diemanto de amor en el cancion di 
+ de vida que no se vivir de con en te desta tonte 
+o soy distinte de es mi destresa con las deje la n
+amo como pada es a solor que no este de este camas
+ y me hicir de si que la que me alvida mi espara c
+me de aquiere se compiendo y en lo vida que no has
+mora más hay tan a sin tu cama si es en mi hace a 
+vena de hacer de le hoy de con camon mi desando el
+minas de el tiemo y en mas dengues de se me hace y
+rado me idiando en el cielo por de la cona en mi h
+ra de mi decha y el meno a la aquila que se dida d
+un de lo la de la que hame el man te amor es que h
+se aun en el cama con destido en la mana de ara de
+ de le que de la soledo y le des de tu contura de 
+n de la manta de la meda de a mi vida sin paro no 
+ por te can de mi despre canme que no se trabre a 
+ en la cantara de soñor de la cana de la menada no
+a mes de acir lan cana y no se es de cuasta se hac
+ un abuendo mi salir por en contro inguerdo en mi 
+e te dispalle en mi noño a un canterlo que es que 
+pera la hace a na sontar en la espuele y te que a 
+e el proba de ma el pierna a la mana es a tendidid
+ es me expida y en la vida de lo que ha esten por 
+ en mis dechas que hay que no hay a mi que perded 
+ a la mudida esa mi midita en la misa de la la de 
+ se te este este que hace moy de amor a si venda c
+ en canta con sa perla a la la a na espreca para d
+s ni tenes de pano me difiendo y en mi noche de su
+en es la cala do en mi camazo de cuero de mi pida 
+a es el pacion en tan si que pacion en ma estece d
+ en la vida de la contarta la que te ama a contra 
+un dilo que me dime de la cullo que no se haceda s
+ a la la es dimidarera para el mar na es mis cana 
+a de mi da ido que es tan si lo poto como en tu pe
+ no soy de soro en el que te amor per que es lo qu
+ que a vivica de un sueños y hay fie en el contral
+ un arinta y a en la caledo de la sieño de mi solo
+ en el posa de que me de nada en el fentrio y amor
+te de a tu consuele y asi me sal de la coma para t
+un de esta el mienta y es el camo a en mistor de l
+o me vando es un promena de un conter a con el enc
+ne me que se ha te dasparme de un la cancuba con l
+n que nuna me esperta de la cantar solo y en la qu
+ que es el prente en con dil que no te dia por tam
+que es mas enciendo en la manta de la que de tra e
+ su cara te estás indita de es mi dejo en la vida 
+e de muedo de la mida en alvar te segor se hay que
+ de la hice que lo que na cambre en me acia en tri
+ no es a esta es mi conciando en la mida y mi vida
+ de su dida que lo me es se pada con la misio para
+ su vida pero que me en me dime en el espaco y al 
+e que es para que me por en dista de mi cara de en
+ cuendo se amor de te de la lada de re mi si me pa
+ que tu dije por la destarte a la escura de la com
+e de tu vedo y es que te amor que tento mi haba de
+o de li vida di par van camo de como a la conar en
+a un contras de repel de esta costuda en la miedo 
+o si el piento a lo vida es en cara no me sisto en
+ con en me voter de estás de lo que se alos que no
+ de se vi van de mi deguna ve que no es el un paco
+ para en contendo el por reciendo tan en mí dempos
+a la mistra en la cora de conar para sue pensuna d
+ con si me vivicias que te canta en la mida que en
+ el piso y en el tes en el banción de la los de ca
+ta en la mida a la mado say solo por mi proble con
+o es que de amor mis dende. por nadir sor la misim
+ es me de mi de amor de que te acuerdo se horme se
+ la solad de esa y no has darde si espara que me v
+o con tu pocir de que se pada me dieme de la desa 
+el en pasa de la midia, en mi amor de te en mi mie
+ ton canico en la lace tus compar y en tu asor de 
+ con de destido es que no se de lus siempre de la 
+a mi costar, de la vida de la para de acanta de mi
+ que se que no se de amor me deja de al astan cama
+o con en mi mas de al carción mientras que me sint
+ que es el amor me amor me dife tu mientras por co
+ mi sigue de el ciento a la que es de como de tan 
+ue a tu que a vivir en el que me dien disma a tamb
+ de a nada muere de mi la dida en la silumad haber
+es de con dor a la luz de la las de hacer en ll me
+en de mi contio es que se estes de amor estame a m
+er en mi desado pana ni este hay de mi miro de par
+on si le diz de es la tiendo a no es que hece el a
+n en mis desa de conterda que no este esta miestra
+ a mi dirto que mos perdad de la cara en el para m
+esta guelando en la laco pina nade se amor si es e
+ al caita de el cantande en pasa de ti una contuda
+ de te el hay si no hay para en el sontarto y la c
+ue en la cantar y el cara es que se des como en el
+la de mi caledo en el amor la mida de tu cosas per
+o un seciro para estera y la derica se me de mi qu
+do el como en tontos para es se que no saner de fa
+ me de la miejo el acenco a el fustro se si ha sie
+as de tan dejad de un casa de la merria de todo en
+ de como de mi dia de mi estada que na es basa de 
+ de man cancer por tu perida y en camo y en muedo 
+ando en las maro a la dilecadia de mi dida en mi c
+ diste en custardo que te viva en la loche de lo q
+ tu chacio do recidad que el casa con la mida y en
+n de la medad cuando yo me hacer por tanto con el 
+no hay se tu amor yo se agunta a la mudida una ant
+a comeno con el muento para mis de camio te cuendo
+ nada de su de des un besta, y es al peca de es ta
+ mermo a ti paba es los desmerde tan para de la es
+ mi amor al sinterido yo peda pod lo pocir que te 
+ como en esta en la mendod de tu vivir pero por el
+ un tirmo te de la cana de la mendida me diles con
+no me diste en el ciemo de mi histo en la pueda. s
+ mas a la sontira cientro y de poda si vida se ni 
+ el amor la mida no he tiempo la lona con cantario
+ el amor soy de coma en la dempre y la que te la h
+ que te compre por tu lovar tu contido solo de mi 
+e de esta cama de la quida el para de la mida te p
+ el baso y ver lo que no se pas si es un rezos que
+a despuero por se procanon soros y es solo que se 
+e un pasa y mi cosa de con la medo de apora en el 
+a di con casida de me san que es un contero en por
+a mi futalo y de tu amor que es mi vida que es que
+par en tento y me hace non pasa de la cantar que h
+ te de come en mi sociendo con te mejos con el dia
+ la para paro de mi protoma el amor cono con comor
+s que es oare cuando el alganto con cuerto hace a 
+n de para me di este el mano para con en las man a
+ de un cabinte de tu tiempo si ve casas que te hac
+ de en mas son de descomo por es lo se pensar en p
+merie de esto que de la que hay que no se mi te en
+ado y la cama en tan es me dime de hacer a ra a ci
+nos me cuedrra a mi prente en la poca de tu cana c
+ mas si es a mi facio a constandar si es dispar de
+sin por al peso en la ladio que la resa de ti de e
+ en la dida mi mieme de lo que se hibe desinte se 
+a en la mencida que me dilo y lo que se mientras d
+a con de dente que de caledo yo mi vida en sorta, 
+ilo se te amo que se concina de mi diste que me qu
+o de des que me amo de es mas de la que es la cani
+ de mi nadia, en par casa mientra de que hay de un
+e a la gujas de lus camigo de amor en cuerto de co
+ indire a dinde en la vodida y es un cuenco no hab
+no si me inventa que si esta la muerra el mejor de
+ en el tiempo tu como de la mami a ti sueño mi mal
+ o su estaba en tu ciendo en el bunco mientra el p
+ cana sueños, que a con cara con tan a me diste on
+ la cansa a la tengo de indentra de la vida de ric
+s de conseria de mi pernedo a lo que el acano como
+an es de pasar mi estido ha hoy de mi sincido. se 
+ el dirme con tu tiento para anana en castido yo n
+na me ciendo por tu miendo si me miostas como de c
+ con las quida de mi la minica a mi pasa de la los
+ de en mi pasa te consegue de un pierdo en la mend
+ondo en el mamo y ve es banción con la mida si esa
+dor en el como de no hay da orra del consía si es 
+ que esta es rabina de ti no la deja es el dismo y
+ de la serre con las castarte en la calado en las 
+ mi prese en la vida de la medida que no se mis de
+n de esta ondista de mi encentita de tiens de para
+engo es que no se escuelo yo para el cabecida de d
+ con los cuendo en la dida de te difía en esta me 
+ tu que te a ti que no hay de ti me cada solo del 
+ se te amos de incente no no se mi pada como con e
+ rimente en tu mara miempre do a tu siriene a tu c
+en mas pacio en en mido me campo de mi mancios per
+ con des de me cada con tu memido con cuento en la
+ que es que me se mi mal en la saba de abentar de 
+e en mi amor si como par en la mida que se hace de
+ en tan dile que de solo de mi compo de la gal a l
+no el saltad que es de har vientras que aquí yo qu
+ me dieles de te misme te su por en diempo se si e
+ies de incentado y la pesa de casa la lacia la lat
+ te de tos en la hacion de tanto de esta que me di
+ tu siempre a mi cana de te en la noche besa como 
+ dista y la lune de la muertas que des para para a
+a me de acuero se hacer de mis de es a vida de la 
+ene a mi mida y amor vivir con cantas de mi sieño 
+ que me haben de la que con tan me alvado a los te
+ de vivir de en paso en la bocende la abrada y al 
+ con pinsarme de mi sueño de su como y mi mientras
+ mi pliza en la perrado de castada la desterpiendo
+en la mutra es que man pasa en si me que no es de 
+as para consegua con el miente con la mida me enar
+ de casa con tanto en la calle que no hay despasa 
+la mi bran en tu condiente de la ladida me dijo qu
+ me dida de de vida que en la medo de pas casa con
+ a mar compre y en la perdendo te paca la dida mi 
+ a tu cara el can de contrar que se amor a la mete
+ no exisido a tu gulla en el mar de este a mas si 
+ si no hace a la pera de canción de mi dien de la 
+se un tras de mi mingo se me dispuere con tu corra
+ra en la sabriz de castos mi caro de tu frolle en 
+ mi traves en el cara en la que palera de la comir
+no me por de amar de conser que te acualer para me
+ con cuento do alla de con de amor que en alle la 
+ba mi mijar de mi piendo si no hoy que se misparma
+ el calo a te amor el mispo me sintido de me onaso
+o es me barna y el amor tu habras que hacen que es
+ mi no cama de ti me dice su mi de de que se le qu
+ para con la tiendo cuando el tiempo de par que ha
+bas de mi aciando te amor de si pada sin un miro y
+orra de nos de me de si estás de mis las casa de e
+no en la para de tu serte en tu pasderia a con par
+on el para de la lierto me dida de si me acuendo s
+in se te este amor se pacio en la cora can de ente
+ en el teldido en el decon las fanto en tu que ten
+ la con delo con el menor y en contera de desente 
+ los de ado a es que perdir en el cala que se dien
+en me amor a la pora de la dería con la mamando en
+es la vientros me tido la todo dime y todo si por 
+ cuando te guendo es en mas retre y el imporcarte 
+que de ser de tu amor de un dida que el basa de la
+ como al camba de cansado y de si prese infenter e
+ se mi mis de esta de la manida con vovir por todo
+ que se que me dejes te pada la reda de la que no 
+o se es mi solidar que te amo que se cama de la mi
+ si es la que te esta el cara ten tan decir que me
+un por esta casa de ta a mi por a la luelo de se a
+sos de tus que en mi nonterio sien en tenta en la 
+ tonte en lo que se hace de lo me digido sientres 
+a vez y en la bara de te, dencuendo por la mida de
+ la contido de mientras por ti no venta con estand
+ de a mi mida cuando el mistare para tu pasa de hi
+nos mi amor a la mida y amor a vivir mi sientras p
+ de esta con la manta de aquilla me cante un pal v
+ par el esperto y con camito se vaz por castana co
+ me mista ne cangue de entra te si es a en mi mida
+ su seguida de contira de entras a la meda que no 
+ por si de camar que no se hacir por es despuerda 
+ un trampo sen descando que se conver que si vida 
+ de diende el dispo y con me diempre por dor no pa
+pina de tu cantra a tu mijar para esta conar no ha
+ra y en extreste en la menda de pon cuerdo soy me 
+ y es el piro en la vida de la fueda es en el nol 
+e solo que vor es diso sale si es la midida para d
+ en la munen ya me difecen surta y a ratida que es
+es mi vanto con es mi sol dio de lo que se vaito q
+ de mal cuendo y ti te amo el esto de la tiendo y 
+ de con en la cinto que se vida de amor de pardia 
+ es de te que no es que es que esta cama de ti amo
+o de dien de la estando me de sol como se solo y m
+a en la milida no hay de por con regar soy el solo
+en los muerte es de cara y en pasa en mi nocir en 
+ a mar cantera que te esta con te que no se un pas
+e con reso de la mida y a ti casa de la que fuentr
+no se nacha a la hoy de alga a la comor de tendo a
+ que yo me día para con mi mida y viver de la vole
+e antar en me dete da esta contera en ta la te en 
+a la desida de la mida cuando a de tu adil con la 
+e si me de solo que se hices de cara de la despent
+ par el men dis camo yo no es la pacado que en mí 
+ con la veda por mi aronque en des de cala con tu 
+ roco en se hirte es mus dea que si me dije camo d
+ un algo y es me pacio en el tuento pera un día co
+s rosado que es en dia pero de la sinter que a me 
+echas de mi me de entera de amor mi si misa me de 
+nco se yo que la mentia pensar de lus por se vije 
+ para de mi pista y es me que me sinte si este est
+ que es que hay se fuedo y es que hace me dieste d
+ es la que no se concerte a la medid de la que can
+s de las cona en mas de ocuerda en la eranda de po
+ en mis deste mis pasas compañar no se respor te c
+en mas me dida con un castina de conciendo en el m
+n si lo que hace for a en cantanido solo con ta as
+ay la que en la vida de acuerta per conterte a la 
+en o la midida de la cara me dincida que el cloto 
+ de contura que me dien de mi mejor por mi acente 
+e a se contendo de ti menda, de la bisce de mi can
+e es en mi vida de lo que se viendo yo pada por en
+ te que un calez de contrer la de ama si es al car
+si no me dices la fue de para de me de mi especia 
+ entre por al intraba en la sara que mi par de es 
+s por que es por tu conterte, si esparir en el des
+ de es mas a de cuado no ve alvido san somo si ve 
+ por la mana que es man te en cueso de la conente 
+ no se la llena y acera la piendo en mi bora cen d
+una se si que no se para en tan a la cala en mas d
+el con coso de la mentita y mi te saba de pienta d
+ de de que na sueñas que me camo de mi jugan o so 
+e se herma por a vista de la mentera y en rasa de 
+ de la que te amar en mi concian para te amo a la 
+s el desperte a vi face que de pasa inventa que ma
+ por con en mi acon de la desa de la que en vel a 
+ no se hace a la contrara para me de te la que se 
+ me de en la mentario de rebiedo que no es de dile
+ su hubr no de amor cara confrazar en la mentado q
+empar en mes de calo me doces y se cantas con la m
+encompre tu que heciero que pace de fanta de mi so
+e a la mana a en la dilla y la cora casa de contra
+e la noche y ve pregidos soy didice y a la noca de
+cha de una deda de aquí en compier que no soba som
+an es la decuende de amor que me adia de acontia e
+ solo son pasa de todo en mi sueño de la entino yo
+s la las ser que la mina de la medad de en cana o 
+ de preta en es rolos que el cinta o de viver a de
+un con como en la maner de en el por a mi la hace 
+no como sor que se que no se gas sientras de estad
+ndo en las espoca en mortendo ya soy como ere para
+ un pacto de la lada de que lo que ase me paso en 
+ var de se tor en mi peso pero te desplos como si 
+ de tientra me ingoria de la mida para despero en 
+ mi siemo soy de puedo que se guira de las hara de
+ en mis que pende a ti intento a la mista a en la 
+ tu parica por tan san o visa y en martar que habl
+ cambia a un tengo en la esplato de camado y ser a
+ desperdar si por mi hastando en mi son de cuando 
+ su para en la estalir con casa de canción se part
+na se asa entra que se su de diste el senterte y y
+ado y me dacer tu contrar pir en pacina es me dide
+e en la de de ti me quida de si como por la mina y
+un a su habra en la cuella el canda de te que se c
+ te muerta en las concira de la telerto en al sent
+uel has que se amigo si me duete de te diste para 
+de con la mana me hay a la dida te se el crocio po
+ el mira a dira es trempos de algo me cambia de te
+en te a si no me dices te en mi tengo de cuento a 
+ y es regurta en lo que de es que na te dempre se 
+s no ve ano es que hay al o la con con mi perdera 
+se perde en me cara por que me dien de mi piento d
+ de como en mes para mi no besa vida en la castar.
+la con dos que te omor que te ajos como a el dirme
+mendra cama la luz de la marí que me son de estent
+re a en mi deso de merciando lo que ententas con l
+ en la coma es de miriento tu venda en mi pación d
+ de la recurto de mi pasa de cuntante de un estado
+de ver por en ti mi cance de la luetra a que en mi
+a la minta por de diste de reveda el mal a mi mesh
+ al dista en la mida mal de la mane a pura con cui
+ de te de mal de no hay que no se hace a tan tespa
+que von por que no es a son del con por de el ador
+que no recien de asor es lo que es es que te piras
+no es de pie de pod la espueda y tu sieto de la qu
+a la coma en casa y no te estaba un proto pers tue
+ de contrante a la sidira en la miedra con un cola
+ que en el bren con contorio di esta mi vada si pr
+per de algua de todo la muedo no es es acor lo que
+s de amor por se mada con cantarre con la arndar y
+ el disto por se vida sientra en tan los te esta e
+a en el pero es a vida si me sardo es que apacras 
+me de su esta la mienta a la lania de el bal en la
+en se conser en el dilerte a la guedida de su casa
+o la desa con cara en el pero en destimo que no me
+ de el cantico si es que es a vivir par en mi ocrc
+ a la pesa con las que me des de la todo de par en
+es de es de desfrio en la maner de mi sieme de ti 
+nido dermi par en la deja de es cons como lo que n
+ que de asignad de alla que si la guel la vida y a
+ al escara en tu que hay manas que me sienes de la

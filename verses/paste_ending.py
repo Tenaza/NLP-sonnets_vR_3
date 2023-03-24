@@ -17,12 +17,12 @@ def syllabes_termination_by_verse(infile, outfile):
 
     for w in range(df_versos.shape[0]):
         line = df_versos.iloc[w]['verse']
-        print(line)
+        #print(line)
         word = line.split()[-1]
-        print(word)
+        #print(word)
         d = dict_silabas_one_word(word, s)
         sil = s(word)
-        print(sil)
+        #print(sil)
         df_versos['terminacion'].iloc[w] = sil
 
     #df_versos.to_csv('output_v6_20_versos_potenciales_con_terminacion.csv')

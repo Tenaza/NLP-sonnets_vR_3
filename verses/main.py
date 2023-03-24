@@ -29,6 +29,8 @@ def main():
     # 3: create VERSES CITIES by dir
 
     option=3
+    #infile_src="00_output_v10_40_temp0.075_temp0.5_cleanyears"
+    infile_src="00_output_v10_40_temp0.075_temp0.5_cleanyears"
 
     if (option == 1):
         try:
@@ -37,7 +39,7 @@ def main():
             os.system("mkdir " + src_dir_model)
 
             city = ""
-            infile = "00_output_v8_20_cleanyears"
+            infile = infile_src
             outfile = src_dir_model+"/"+infile+"_verses"
             build_verses_decasyllabes(infile, city, outfile)
 
@@ -45,8 +47,8 @@ def main():
             outfile = outfile+"_potenciales_con_terminacion"
             build_potencial_verses(infile, outfile)
 
-        except:
-            print ("ERROR: Verses don't created to model.")
+        except Exception as e:
+            print ("ERROR: Verses don't created to model. "+str(e))
 
     elif (option == 2):
         try:
@@ -55,11 +57,11 @@ def main():
             os.system("mkdir " + src_dir_apoc)
             os.system("cp ../apocalipsis/versos_apocalipsis_con_terminacion.csv " + src_dir_apoc)
 
-        except:
-            print ("ERROR: Verses don't created to apocalipsis.")
-
+        except Exception as e:
+            print ("ERROR: Verses don't created to apocalipsis. "+str(e))
 
     else:
+        cont_city = 1
         src_dir_cities = "verses_cities"
         os.system("rm -r " + src_dir_cities)
         os.system("mkdir " + src_dir_cities)
@@ -68,7 +70,8 @@ def main():
         for city in os.listdir("verses_cities/"):
             if os.path.isdir("verses_cities/"+city):
                 try:
-                    infile = "00_output_v8_20_cleanyears"
+                    print(str(cont_city)+": "+city)
+                    infile = infile_src
                     outfile = src_dir_cities+"/"+city+"/"+infile+"_verses"
                     build_verses_decasyllabes(infile, city, outfile)
 
@@ -76,6 +79,7 @@ def main():
                     outfile = outfile+"_potenciales_con_terminacion_"+city
                     # paste_ending
                     build_potencial_verses(infile, outfile)
+                    cont_city += 1
 
                 except Exception as e:
                     print ("ERROR: Verses don't created to city: "+city+". "+str(e))

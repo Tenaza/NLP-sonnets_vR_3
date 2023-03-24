@@ -7,9 +7,9 @@ import numpy as np
 
 
 from utils import *
-from keras import optimizers
+from tensorflow.keras import optimizers
 
-from keras.utils import to_categorical
+from tensorflow.keras.utils import to_categorical
 from keras.models import Sequential
 from keras.layers import Dense, Activation
 from keras.layers import LSTM
@@ -25,7 +25,7 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 # -----------------------------
 
 ### Aca se puede entregar otro texto
-doc = loadDocument('result_v8.txt')
+doc = loadDocument('result_v10.txt')
 doc = applyFilter(doc)
 
 
@@ -66,7 +66,7 @@ y = np.zeros((samples, m, alphabet_size), dtype=bool)
 for i in range(samples):
   x[i]=text_with_one_hot_encoding[i:i+n]
   y[i]=text_with_one_hot_encoding[i+n:i+n+m]
-  
+
 y = np.squeeze(y) #delete the axis that have shape 1 (case m=1)
 
 #### hasta aca funciona bien
@@ -102,14 +102,14 @@ model.compile(loss='categorical_crossentropy', optimizer=adam, metrics=['accurac
 
 #(will be executed at the end of each epoch)
 def on_epoch_end(epoch, logs):
-  
+
   print()
   print('\n----- Generating text after Epoch: %d' % epoch)
   chars_to_generate = 20
 
   start_index = random.randint(0, len(x)-1)
 
-  for temperature in [0.05]:
+  for temperature in [0.075]:
     print('\n----- temperature:', temperature)
 
     generated = ''
@@ -140,11 +140,11 @@ def on_epoch_end(epoch, logs):
 # Training the model
 # -----------------------------
 
-weights_path = 'weights_v8_20.hdf5'
+weights_path = 'weights_v10_40_temp0.075.hdf5'
 checkpointer = ModelCheckpoint(filepath=weights_path, verbose=1)
 generator_callback = LambdaCallback(on_epoch_end=on_epoch_end)
 
-batch_size, epochs = 64, 20
+batch_size, epochs = 64, 40
 model.fit(x, y, batch_size=batch_size, epochs=epochs, callbacks=[checkpointer, generator_callback])
 
 print('\nText length: ', text_len)

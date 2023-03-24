@@ -15,7 +15,7 @@ def read_source(infile):
 def verses_by_line(lines, city):
     s = silabizer()
     d = dict_silabas_one_word(city, s)
-    print(d)
+    #print(d)
     verses = []
     for l in lines:
         words = l.split()
@@ -24,7 +24,7 @@ def verses_by_line(lines, city):
     for v in verses:
         verse_more_city = (str(city)+' '+ str(v)).replace('[', '').replace(']','')
         new_verses.append(verse_more_city)
-        print(new_verses)
+        #print(new_verses)
     return new_verses
 
 def export_verses(verses, outfile):

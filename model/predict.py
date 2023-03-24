@@ -19,11 +19,11 @@ print('\n\n######################################################')
 print('###\t\t      load model       \t\t   ###')
 print('######################################################\n\n')
 
-model = load_model('weights_v8_20.hdf5')
+model = load_model('weights_v10_40_temp0.075.hdf5')
 
-#text_len = 475749
-text_len = 2047008
-#text_len = 7930
+#text_len = 2294739
+text_len = 2284841
+#text_len=247732
 
 ### n cantidad de caracteres por semilla
 n=25 #input length
@@ -55,7 +55,7 @@ print('Text length: ', text_len)
 print('alphabet_size 1:', alphabet_size)
 
 ### Se carga el documento del modelo para la prediccion
-doc = loadDocument('result_v8.txt')
+doc = loadDocument('result_v10.txt')
 doc = applyFilter(doc)
 
 ### Objeto tokenizer, char_level=True indica que se hara la representación del
@@ -70,7 +70,7 @@ alphabet_size = len(tokenizer.word_index)
 print('alphabet_size 2:', alphabet_size)
 
 
-### x es la representacion inicial de los caracteres en un arreglo 
+### x es la representacion inicial de los caracteres en un arreglo
 ### tridimensional de boleanos
 x = np.zeros((samples, n, alphabet_size), dtype=bool)
 
@@ -86,23 +86,24 @@ for key in keys:
 
 ### En la primera vuelta no escribe nada!!!
 # Por cada verso
-for k in range(1000):
+for k in range(50000):
 #for k in range(1000):
 	#print ('---------------')
 	#print ('vuelta numero', k)
-	temperature = 0.2
-	start_index = random.randint(0, len(x)-1)
-	generated = ''
+        temperature = 0.5
+        #temperature = 0.75
+        start_index = random.randint(0, len(x)-1)
+        generated = ''
 
 	###  matriz con true y false que indica que caracter se esta prediciendo
 	#print ('x: ', x)
 	### Se obtiene aleatoriamente de que letra comenzar y se representa
-	one_hot_sentence = x[start_index]
+        one_hot_sentence = x[start_index]
 	#print ('\nlen(one_hot_sentence):', len(one_hot_sentence))
 
 	### Esta funcion al parecer no hace nada, aunque deberia codificar el caracter
 	### con el que comienza la predciccion
-	text_sentence = encodedTextToString(one_hot_sentence, keys)
+        text_sentence = encodedTextToString(one_hot_sentence, keys)
 	#print ('text_sentence:', text_sentence)
 
 	### Al agregar text_sentence quedan los espacios adelante en generated
@@ -113,30 +114,29 @@ for k in range(1000):
 	#print ('generated:', generated)
 
 	# Por cada letra
-	for i in range(chars_to_generate):
-		
-		### Aca se predice desde el modelo
-		preds = model.predict(np.array([one_hot_sentence]), verbose=0)[0]
-		### Aca se obtiene el caracter desde la prediccion
-		next_char = oneHotArrayToChar(preds, keys, temperature=temperature)
-		generated += next_char
-		#next_char += next_char
+        for i in range(chars_to_generate):
+            ### Aca se predice desde el modelo
+            preds = model.predict(np.array([one_hot_sentence]), verbose=0)[0]
+            ### Aca se obtiene el caracter desde la prediccion
+            next_char = oneHotArrayToChar(preds, keys, temperature=temperature)
+            generated += next_char
+            #next_char += next_char
 
-		#sys.stdout.write (str(i))
-		#sys.stdout.write(next_char+' ')
-		#sys.stdout.flush()
-		
-		### Arreglo de 0 de tamanio alphabeto
-		next_char_one_hot = np.zeros((alphabet_size))
+            #sys.stdout.write (str(i))
+            #sys.stdout.write(next_char+' ')
+            #sys.stdout.flush()
 
-		### Que se cambia a 0?
-		next_char_one_hot[tokenizer.word_index[next_char]] = 1
+            ### Arreglo de 0 de tamanio alphabeto
+            next_char_one_hot = np.zeros((alphabet_size))
 
-		### Hace contigua la prediccion
-		one_hot_sentence = np.append(one_hot_sentence[1:],[next_char_one_hot],axis=0)
+            ### Que se cambia a 0?
+            next_char_one_hot[tokenizer.word_index[next_char]] = 1
 
-	# Se escribe el verso predicho
-	sys.stdout.write(generated+'\n')
-	sys.stdout.flush()
+            ### Hace contigua la prediccion
+            one_hot_sentence = np.append(one_hot_sentence[1:],[next_char_one_hot],axis=0)
+
+        # Se escribe el verso predicho
+        sys.stdout.write(generated+'\n')
+        sys.stdout.flush()
 
 

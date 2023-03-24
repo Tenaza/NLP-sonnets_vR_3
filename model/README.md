@@ -176,4 +176,21 @@ text_len        :
 alphabet_size   :   
 
 
+# ______________________________
+
+
+__modelo_v7__
+
+Textos de wikipedia
+
+
+# ______________________________
+
+
+__modelo_v8_20__
+
+Textos de cambio climático,
+Textos de wikipedia
+sonetos de sheskphare
+
 
